@@ -1,0 +1,9 @@
+variable "name" {}
+variable "filename" {}
+variable "role" {}
+variable "handler" {}
+variable "role_id" {}
+variable "account_id" {}
+variable "region" {}
+variable "evaluation_periods" {}
+variable "slack_channel" {}
